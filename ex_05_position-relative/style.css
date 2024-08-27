@@ -1,0 +1,18 @@
+.position{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    border-bottom: 3px dashed navy;
+    margin: 10px;
+}
+
+.static{
+    position: static;
+}
+
+.relative{
+    position: relative;
+    background-color: green;
+    top: 60px;
+    left: 20px;
+}
